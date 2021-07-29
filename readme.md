@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **riyajawa2@gmail.com**
 
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
 - ⚡ Fun fact **I love to draw and listen music**
 
 <h3 align="left">Connect with me:</h3>
