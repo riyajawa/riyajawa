@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BEAF7&lines=A+passionate+frontend+developer+from+India)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com?color=5BEAF7&lines=A+passionate+frontend+developer+from+India)](https://git.io/typing-svg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajawa&label=Profile%20views&color=0e75b6&style=flat" alt="riyajawa" /> </p>
 
