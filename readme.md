@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20frontend%20developer;StudentAlways%20learning%20new%20things&center=true&width=440&height=45&color=5BEAF7&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20frontend%20developer;Student;Always%20learning%20new%20things&center=true&width=440&height=45&color=B75DF7FF&vCenter=true&size=22"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajawa&label=Profile%20views&color=0e75b6&style=flat" alt="riyajawa" /> </p>
