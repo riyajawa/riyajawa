@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyajawa&show_icons=true&locale=en" alt="riyajawa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyajawa&" alt="riyajawa" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riyajawa&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
