@@ -12,7 +12,7 @@
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact **I love to draw and listen music**
+- ⚡ Fun fact **I love to draw and listen to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
